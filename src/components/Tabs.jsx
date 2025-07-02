@@ -1,5 +1,5 @@
-export default function Tabs({ buttons, children, buttonContainer }){
-    const ButtonContainer = buttonContainer;
+export default function Tabs({ buttons, children, ButtonContainer }){
+    // const ButtonContainer = buttonContainer;
 
     return (
         <>
